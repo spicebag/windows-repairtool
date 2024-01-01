@@ -5,13 +5,13 @@ The Windows Repair Utility is a Python application designed to simplify and auto
 
 
 ***Key Features:***
+
 *Check & Repair Windows Installation:*
 Two-step process using DISM and SFC utilities.
 Transparent repair process with real-time feedback.
-Run Memory Test on Startup:
 
-*Placeholder for future memory test functionality.*
-Notification for users about the feature being under development.
+*Run Memory Test on Startup:*
+Placeholder for future memory test functionality.
 
 *Disk Cleanup:*
 Utilizes built-in Disk Cleanup for efficient space management.
